@@ -83,8 +83,8 @@ author:
   bio              : "Graduado em Engenharia de Computação e Mestrando em Ciência da Computação"
   location         : "Ouro Preto - MG"
   employer         :
-  googlescholar    : " -- "#"http://yourfullgooglescholarurl.com"
-  email            :
+  #googlescholar    : " -- "#"http://yourfullgooglescholarurl.com"
+  email            : guilhermebf.ufop@gmail.com
   uri              :
   bitbucket        :
   codepen          :
