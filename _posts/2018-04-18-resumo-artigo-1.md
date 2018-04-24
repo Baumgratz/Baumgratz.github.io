@@ -6,18 +6,18 @@ tags:
   - artigo
   ---
 
-Artigo "Invertible Syntax Descriptions: Unifying Parsing and PRetty Printing" - T.Rendel e K. Ostermann.
+Artigo "Invertible Syntax Descriptions: Unifying Parsing and Pretty Printing" - T.Rendel e K. Ostermann.
 
 Perguntas 
 ========
 
-Qual o problema que o artigo presente solucionar? 
+Qual o problema que o artigo predente solucionar? 
 ========
 Resposta: O problema de converter sintaxe concreta para fabrica abstrata e vice-versa de forma direta, já que que não existe uma relação direta entre os termo, pois quando se transforma um sintaxe para a outra, essa transformação gera multiplas representações. 
 
 Qual a contribuição do trabalho para a solução deste problema?
 ========
-Para isso ele cria um isomorfismo entre os dois, assim, ter uma relação direta entre a sintaxe concreta e a sintaxe abstrata.
+Resposta: Para isso ele cria um isomorfismo entre os dois, assim, ter uma relação direta entre a sintaxe concreta e a sintaxe abstrata.
 Ele cria tipo abstrado de dados e suas operções para transforma de uma sintaxe para outra de forma direta.
 
 Quais as limitações da abordagem proposta?
