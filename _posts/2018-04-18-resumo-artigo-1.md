@@ -13,16 +13,16 @@ Perguntas
 
 Qual o problema que o artigo presente solucionar? 
 ========
-Resposta: O problema de converter sintáxe concreta para sintáxe abstrata e vice-versa de forma direta, já que que não existe uma relação direta entre os termo, pois quando se transforma um sintáxe para a outra, essa transformação gera multiplas representações. 
+Resposta: O problema de converter sintaxe concreta para fabrica abstrata e vice-versa de forma direta, já que que não existe uma relação direta entre os termo, pois quando se transforma um sintaxe para a outra, essa transformação gera multiplas representações. 
 
 Qual a contribuição do trabalho para a solução deste problema?
 ========
-Para isso ele cria um isomorfismo entre os dois, assim, ter uma relação direta entre a sintáxe concreta e a sintáxe abstrata.
-Ele cria tipo abstrado de dados e suas operções para transforma de uma sintáxe para outra de forma direta.
+Para isso ele cria um isomorfismo entre os dois, assim, ter uma relação direta entre a sintaxe concreta e a sintaxe abstrata.
+Ele cria tipo abstrado de dados e suas operções para transforma de uma sintaxe para outra de forma direta.
 
 Quais as limitações da abordagem proposta?
 ========
-Resposta: Ele não consegui definir um isomorfismo completo, pois não é possível saber se vai gerar mais de uma árvore de derivação entre as duas sintáxe.
+Resposta: Ele não consegui definir um isomorfismo completo, pois não é possível saber se vai gerar mais de uma árvore de derivação entre as duas sintaxe.
 
 Qual a relação do artigo com seu trabalho? Quais as vantagens / desvantagem de sua proposta frente a descrita no artigo?
 ========
